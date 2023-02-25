@@ -3,6 +3,10 @@
 ![Group 21](https://user-images.githubusercontent.com/47373251/221367502-4529cae4-0df5-4b7a-99cd-a1cf3612718e.png)
 
 
+## Description
+
+AI Image Generator Full Stack MERN App, where user can generate ai image by writing prompt, and user can share that image with Community.
+
 ### Built With
 
 * Node.js, Express.js, MongoDB, React.js (MERN STACK) 
@@ -18,3 +22,36 @@
 - [x] MERN stack applications
 - [x] Image hosting and storage
 - [x] Full-stack application production
+
+## How to run locally ?
+
+1.  clone
+    ```
+     git clone https://github.com/bkabhi/ai-image-generator
+    ```
+2.  Install node_modules
+    ```
+     npm i
+    ```
+3.  start it from frontend
+    ```
+    npm run dev
+    ```
+
+3.  start it from Backend
+    ```
+    npm run dev
+    ```
+
+## Key Secret
+
+-> POST=8000
+-> DATABASE
+
+<!-- CLOUDINARY -->
+-> CLOUDINARY_CLOUD_NAME
+-> CLOUDINARY_API_KEY
+-> CLOUDINARY_API_SECRET
+
+<!-- OPENAI -->
+-> OPENAI_API_KEY
