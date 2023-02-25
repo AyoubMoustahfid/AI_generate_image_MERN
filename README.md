@@ -46,11 +46,14 @@ AI Image Generator Full Stack MERN App, where user can generate ai image by writ
 ## Key Secret
 
 -> POST=8000
+
 -> DATABASE
 
 <!-- CLOUDINARY -->
 -> CLOUDINARY_CLOUD_NAME
+
 -> CLOUDINARY_API_KEY
+
 -> CLOUDINARY_API_SECRET
 
 <!-- OPENAI -->
