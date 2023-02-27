@@ -27,7 +27,7 @@ AI Image Generator Full Stack MERN App, where user can generate ai image by writ
 
 1.  clone
     ```
-     git clone https://github.com/bkabhi/ai-image-generator
+     git clone https://github.com/AyoubMoustahfid/AI_generate_image_MERN
     ```
 2.  Install node_modules
     ```
@@ -40,7 +40,7 @@ AI Image Generator Full Stack MERN App, where user can generate ai image by writ
 
 3.  start it from Backend
     ```
-    npm run dev
+    nodemon app
     ```
 
 ## Key Secret
